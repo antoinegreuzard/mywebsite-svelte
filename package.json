@@ -160,7 +160,7 @@
     "typescript": "^5.3.3",
     "universal-cookie": "^6.1.2",
     "unplugin-icons": "^0.18.1",
-    "vite": "4.5.1",
+    "vite": "5.0.10",
     "wireit": "^0.14.1",
     "xml-formatter": "^3.6.0"
   },
