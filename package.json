@@ -118,7 +118,7 @@
     "@babel/eslint-parser": "^7.23.10",
     "@iconify/json": "^2.2.164",
     "@playwright/test": "^1.41.2",
-    "@sveltejs/adapter-netlify": "^2.0.8",
+    "@sveltejs/adapter-netlify": "^4.1.0",
     "@sveltejs/kit": "1.30.3",
     "@types/apca-w3": "^0.1.3",
     "@types/chroma-js": "^2.4.3",
