@@ -38,7 +38,7 @@
     "@types/imagemin-webp": "^7.0.3",
     "@types/lodash-es": "^4.17.12",
     "@typescript-eslint/eslint-plugin": "^6.19.1",
-    "@typescript-eslint/parser": "^6.19.1",
+    "@typescript-eslint/parser": "^7.0.2",
     "apca-w3": "0.1.9",
     "autoprefixer": "^10.4.17",
     "bezier-easing": "^2.1.0",
