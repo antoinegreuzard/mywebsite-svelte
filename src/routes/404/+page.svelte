@@ -23,8 +23,8 @@
       url: "https://antoinegreuzard.fr/antoinegreuzard-profile.jpeg",
       width: 746,
       height: 1020,
-      alt: "Antoine greuzard: A propos, Projets, et Contact"
-    }
+      alt: "Antoine greuzard: A propos, Projets, et Contact",
+    },
   };
 </script>
 
