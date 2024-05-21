@@ -8,7 +8,7 @@
   const { posts, tagColors } = data;
 
   const intro = String(
-    "Je suis Antoine Greuzard, développeur web avec 7 ans d'expérience, spécialisé en administration de bases de données et développement logiciel. Mon parcours m'a permis de me perfectionner dans des technologies clés telles qu'Angular, Django, React, JavaScript, Python, et PHP. Expert dans l'utilisation de solutions cloud comme AWS et Azure, je m'engage à développer des solutions numériques robustes et innovantes.\n" +
+    "Je suis Antoine Greuzard, développeur web avec 8 ans d'expérience, spécialisé en administration de bases de données et développement logiciel. Mon parcours m'a permis de me perfectionner dans des technologies clés telles qu'Angular, Django, React, JavaScript, Python, et PHP. Expert dans l'utilisation de solutions cloud comme AWS et Azure, je m'engage à développer des solutions numériques robustes et innovantes.\n" +
       "\n" +
       "Ma passion pour la technologie me pousse constamment à explorer et à intégrer de nouvelles pratiques, notamment dans les domaines de la cyber-sécurité et de l'intégration continue. Familiarisé avec les méthodologies Agile et Scrum, je vise à optimiser le processus de développement pour garantir efficacité et qualité.\n" +
       "\n" +
