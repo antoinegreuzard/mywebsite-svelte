@@ -31,11 +31,21 @@ jobs:
     steps:
       - name: Checkout the code
         uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: Install dependencies using Yarn
+        run: yarn install
+
       - name: nodejsscan scan
         id: njsscan
         uses: ajinabraham/njsscan-action@d58d8b2f26322cd35a9efb8003baac517f226d81
         with:
           args: ". --sarif --output results.sarif || true"
+
       - name: Upload njsscan report
         uses: github/codeql-action/upload-sarif@v2
         with:
