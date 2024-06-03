@@ -21,7 +21,11 @@
     "upgrade": "ncu -u && npm i && npx playwright install"
   },
   "resolutions": {
-    "markdown-json/metalsmith-to-json": "github:hellotoby/metalsmith-to-json#master"
+    "markdown-json/metalsmith-to-json": "github:hellotoby/metalsmith-to-json#master",
+    "markdown-json/metalsmith-excerpts": "github:metalsmith/excerpts#master",
+    "markdown-json/metalsmith-markdown": "github:metalsmith/markdown#main",
+    "markdown-json/metalsmith-ignore": "github:metalsmith/remove#main",
+    "markdown-json/metalsmith-collections": "github:metalsmith/collections#main"
   },
   "browserslist": [
     "last 5 years or ie>=11 or >0.2%"
