@@ -23,8 +23,6 @@
   "resolutions": {
     "markdown-json/metalsmith-to-json": "github:hellotoby/metalsmith-to-json#master",
     "markdown-json/metalsmith-excerpts": "github:metalsmith/excerpts#master",
-    "markdown-json/metalsmith-markdown": "github:metalsmith/markdown#main",
-    "markdown-json/metalsmith-ignore": "github:metalsmith/remove#main",
     "markdown-json/metalsmith-collections": "github:metalsmith/collections#main"
   },
   "browserslist": [
